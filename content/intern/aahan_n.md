@@ -2,9 +2,9 @@
 bio = "What's up! I'm a rising senior in high school with a deep passion for robotics and AI/ML, and I look forward to exploring XAI, RL, and training Autonomous systems. The ability for applications of AI, especially physical AI, to transform the world in the near future truly fascinates me."
 date = "2023-07-28"
 id = "aahan_n"
-interests = ["write", "your", "interests"]
+interests = ["XAI", "Neural Networks", "Reinforcement Learning", "Autonomous Systems"]
 name = "Aahan Nellutla"
-portrait = "/portraits/your_name.jpg"
+portrait = "/portraits/aahan_n.jpg"
 short_bio = "I love robotics and research in AI/ML."
 short_name = "aahan"
 title = ""
