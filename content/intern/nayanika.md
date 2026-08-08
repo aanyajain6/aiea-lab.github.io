@@ -7,7 +7,7 @@ name = "SaiNayanika Vakkalanka"
 portrait = ""
 short_bio = "High school student interested in AI, machine learning, and educational technology."
 short_name = "Nayanika"
-title = "High School Auditor"
+title = "High School Intern"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "High School Auditor"
 
 [[organizations]]
     name = "AIEA Lab"
-    role = "Auditor"
+    role = "Intern"
 
 +++
 High school student interested in artificial intelligence, machine learning, and educational technology. Currently exploring AI research and adaptive learning through the AIEA Lab.
