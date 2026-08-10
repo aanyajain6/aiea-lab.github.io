@@ -10,21 +10,6 @@ short_name = "Sohaib_Kakar"
 title = "Intern"
 
 [[social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:[your_name]@ucsc.edu"
-
-[[social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = ""
-
-[[social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = ""
-
-[[social]]
     icon = "github"
     icon_pack = "fa"
     link = "https://github.com/YusefKak"
